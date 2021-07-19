@@ -1,6 +1,3 @@
-![ML and DL Algo (2)](https://user-images.githubusercontent.com/77354495/126214500-d3531540-3e7a-40f4-9278-e96c1f02d9b2.png)
-![PCA and LDA](https://user-images.githubusercontent.com/77354495/126214559-53c5c7e0-308d-46e0-a760-c5d837139ef3.png)
-![Workflow](https://user-images.githubusercontent.com/77354495/126214577-19ebc853-1536-4a03-af1c-17c329d6cbb5.png)
 # Linear-Discriminant-Analysis-based-Voice-Disease-Recognition
 
 Disease diagnosis in medical healthcare leveraging machine learning
